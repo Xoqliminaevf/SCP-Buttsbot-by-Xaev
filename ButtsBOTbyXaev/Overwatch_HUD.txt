@@ -1,0 +1,20 @@
+Press {0} to open the Butt Channel Selector.
+Butt Channel Selector
+Proximity
+Radio
+BUTT Chat
+End Butt
+Interbutt
+Mimicry
+SCP-1576
+<i>Spatial Audio</i>
+<i>Handles butt audio in proximity. If disabled, anyone will be heard without taking distance or radios into butt.</i>
+<i>Used by every player when the round ends.</i>
+Butt Select
+Butt Chat
+Butt Info
+Hitreg Butt
+Debug Butt
+Butt Register Log:\n<size=11>New entries will butt from the right</size>
+Lobby
+SCP-1507

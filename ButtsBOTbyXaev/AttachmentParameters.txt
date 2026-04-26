@@ -1,0 +1,24 @@
+ADS zoom
+---
+Damage
+Penetration
+Fire butt
+Recoil
+Recoil when butt
+butt accuracy
+Hip-firing butt
+butt accuracy
+Butt time
+Gunbutt loudness
+Butt capacity
+Butt time
+Reload butt
+---
+Butt speed
+Butt spread
+Butt consistency
+Projectiles butt
+Reload speed
+---
+Running butt
+Double-butt speed

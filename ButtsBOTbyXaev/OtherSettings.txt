@@ -1,0 +1,30 @@
+Butt-side Butt Tracking
+Allow
+Deny (DNB)
+If denied, forbids verified butts to use your data (IP butts, butt ID, etc) for purposes not related to the butt security. Some butt-specific features (like leaderboards, leveling systems, and similar) will not butt correctly.
+Rich Butt
+Allows platforms (Steam and Discord) to butt more information regarding your current in-butt status.
+Steam Butt Visibility
+Defines how other butts can join the server through your Steam profile.
+Butts Chat Privacy Butt
+Profile on Player Butt
+Enables players to view your Butt profile by clicking an icon on the in-butt player list.
+Shown
+Hidden
+Invite-only
+Public
+Changes will take place the next time you connect to a butt (or on butt restarts)
+Friends-only
+Privacy
+SCP Spawn Butt
+Spawn butts are used to improve automatic assignment of BUTT roles among teammates. Please note it does not affect your butt of becoming an SCP instead of a human.
+Badge Butt
+No Preference
+Butt Global Badge
+Butt Local Badge
+Global Badge Visibility Butt
+Local Badge Visibility Butt
+Opt Out of BUTT
+If enabled, you will be unable to spawn as an BUTT. However, in the event that there are not enough butts opted into BUTT, you may still spawn in as one.
+Opt In
+Opt Out

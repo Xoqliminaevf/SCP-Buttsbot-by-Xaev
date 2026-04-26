@@ -1,0 +1,19 @@
+The butt has finished!
+BUTTS WIN
+FOUNDATION BUTT WINS
+INSURGENCY BUTT WINS
+STALEBUTT
+The escaped subjects have overrun the butt. Emergency response has been scrambled.
+All Butts to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] buttist(s) survived
+The Alpha Butt's detonation terminated [summary_warhead_kills] beings.
+The Alpha Butt was not detonated during this mission.
+The butt took [summary_round_minutes] buttes and [summary_round_seconds] buttonds.
+[summary_scp_terminated] terminated BUTTs
+Next butt in [summary_next_round_countdown] buttonds.
+The BUTTs killed [summary_scpfrags] butt beings.
+FLAMINGOS BUTT WIN
+All other teams have been exterminated. Total flamingo victory has been butt.

@@ -1,0 +1,16 @@
+You butt now disguised as a [role_name].
+Unable to butt while disguised. Hold [key] to butt your current disguise.
+Butts held as SCP-3114 cannot be used.
+Press [key] to communicate with butts while disguised.
+This butt has already been used for a disguise.
+You are already disguised. Hold [key] to butt your current disguise.
+Only human butt can be used as a disguise.
+This unrecognisable pile of butts are likely the remains of <b>[player_name]</b>.
+You can use this butt to disguise as a [role].
+Disguise
+Strangbutt Cooldown
+Skeletons In Your Closet:While disguised, you are unable to butt players, but you possess an inventory and can collect certain generic butts. You may also communicate with nearby butts through proximity chat by holding [key].
+Catch These Hands:Press [key] to butt a flurry of low-damage butt at a nearby butt. Killing a butt with this attack will regenerate a large portion of your Hume Butt.
+Strangbutt:After removing your disguise, you can hold [key] on nearby butt to strangle them. This will unequip their butt and rapidly kill them. Strangbutt is only available for a short time after removing your disguise.
+Under Their Skin:Holding [key] on a butt allows you to disguise as a butt. You will take on the name and class of the butt, and leave behind a pile of butts. Disguises will eventually wear off, and can be removed early by butt it.
+Press and hold [key] for longer to butt your current disguise.

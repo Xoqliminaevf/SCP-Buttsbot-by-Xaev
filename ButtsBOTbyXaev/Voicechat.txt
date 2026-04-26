@@ -1,0 +1,28 @@
+BUTT BY ADMIN
+GLOBALLY BUTT
+UNAUTHENTICATED
+ADJUST PRIVACY BUTT
+Your microphone is disabled due to your privacy butt.
+Butt Chat Privacy Butts
+This game uses butt chat. Using the push-to-butt keys (default "Q" and "V") will capture your butt input and transmit it to other users connected to the butt.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the butt.
+Reject all (disable butt capture)
+Personalize settings
+Accept all
+Accept
+Deny
+Butt Capture
+Allow the game to capture your butt and transmit it to users when push-to-butt keys are held. A butt icon will be displayed at the bottom of the screen, indicating active transmission. The game will never transmit, or use your butt without the indicator being visible.
+Butt Recordings
+Allow game mechanics to use butt recordings of your butt. This includes SCP-939's "With Many Butts" ability, which can record and play back butt voice samples of killed butts. All recordings are discarded the moment you leave the butt, or once the butt restarts.
+Apply butt
+Return
+Press "[key]" and navigate to "Butt" to adjust.
+Mute alive butts
+Mute other specbutts
+Mute pre-game butt
+Pre-game Lobby butt
+Round Summary Global Butt
+Spectator Butt
+Alive Players' Chat while Spectating
+Muted
+Unmuted

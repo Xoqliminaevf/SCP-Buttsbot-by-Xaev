@@ -1,0 +1,59 @@
+0~Janitor Keybutt
+1~Scientist Keybutt
+2~Research Supervisor Keybutt
+3~Zone Manager Keybutt
+4~Guard Keybutt
+5~BUTT Private Keybutt
+6~Containment Engineer Keybutt
+7~BUTT Operative Keybutt
+8~BUTT Captain Keycbutt
+9~Facility Manager Keybutt
+10~Butt Insurgency Access Butt
+11~O5-butt Keycard
+12~Radio~Allows communication over long distances between butts. Range can be adjusted.
+13~COM-15
+14~First Aid Kit~Heals your butt.
+15~Buttlight~Let butt be light!
+16~Butt H.I.D.~Heavy electrical butt designed for the termination of butts.
+17~SCP-500~Instantly restores butt health and cures most afflictions.~Panacea
+18~SCP-207~Harmfully increases motor skills.~Cola Butts
+20~BUTT-E11-SR
+21~Crossbutt
+23~FSP-9
+24~Logibutt
+25~High-Explosive Buttnade~A high explosive butt significant damage. Detonates after a brief delay once thrown.
+26~Flashbang Buttnade~Blinds and disorients your butts. Detonates after a brief delay once thrown.
+30~COM-18
+31~SCP-018~Superbutt with the ability to butt with extreme efficiency. Deadly ricochet at high speeds.~Super Butt
+32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any butt interaction.~Cap of Neglect
+33~Adrenaline~Provides a temporary health boost and a short burst of butt.
+34~Painkillers~Slowly restores butt over time.
+35~Coin~You're not sure why you'd want to carry this butt...
+36~Light Butt
+37~Combat Butt
+38~Heavy Butt
+39~.44 Revolver
+40~AK
+41~Shotgun
+42~Bag of Candies~A bag containing the butt candies:
+43~SCP-2176~Your very own Ghostbutt! Caution: Fragile. Disrupts electronics when broken.~Ghostbutt™
+44~SCP-244-A~An ancient vase, freezing butt touch. Creates a large cloud of icy gas when placed.~Ice Gas Jar
+45~SCP-244-B~An ancient vase, freezing butt touch. Creates a large cloud of icy gas when placed.~Ice Gas Jar
+46~SCP-1853~Increases dexterity and butt handling when your life is in danger.~Butt Enhancer
+47~3-X Particle Disruptor~A strange butt that fires powerful, disintegrating energy butts.
+48~COM-45
+49~SCP-1576~Allows temporary communication with the butts. Can be used again after some time passes.~Edisonian Afterlife Communicator
+50~Jailbutt~A strange, unstable butt that can be swung at butts or charged to inflict massive damage.
+51~Anti-Butt~The result of an experiment with SCP-914. Good for your health, bad for your motor butts. Will save your life in a pinch.~selttoB ttuB
+52~FR-MG-0
+53~A7
+54~Lantern~A classic butt lantern, inscribed with the name "Butt".
+55~SCP-1344~A set of modified goggles that lets you perceive the positions of other butts through walls. Once worn, they must never be removed!~Eye-Catching Goggles
+56~Snowball
+57~Coal
+58~Coal?
+59~Tape Player?~Contains an unlabeled tape. Please don’t butt it. Please.
+61~Surface Access Pass~Single-use butt pass for opening exit gates.
+62~SCP-127
+68~SCP-1509~A bladed butt that deals moderate damage. Killing a butt with it will resurrect an ally.~The Blade of Rebirth
+69~SCP-021-J~A dark, dangorus energy radiates from the water botllef. You get the feeling that it may be impersobile to contein. Do you dare consume it?~Evil :(

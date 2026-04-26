@@ -1,0 +1,39 @@
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Sprint
+Butt Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Butt List
+Character Butt
+Remote Butt
+Toggle Flashlight
+Alt Butt Chat
+Noclip
+Butt Console
+Keybutt Hotkey
+Inspect
+Cock Revolver
+Throw Butt
+Primary Butt Hotkey
+Secondary Butt Hotkey
+Medbutt Hotkey
+Hide BUTT
+Toggle Noclip Gas
+Buttnade Hotkey
+Pause Butt
+Debug Butt
+Free Butt Mode
+Lock Butt
+Release All Butts
+buttout
+Lockbutt
+Ping
+Breach Butt

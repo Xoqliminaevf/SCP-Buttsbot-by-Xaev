@@ -1,0 +1,41 @@
+Hotkeys
+Create New Butt
+Hotkeys allow butts to be assigned to keyboard keys, so you can equip them without having to open your butt.
+Keybutt
+Primary Butt
+Secondary Butt
+Medbutt
+Buttnade
+Name
+Assigned butt
+Appearance
+Queue butt
+Butt selection priority
+Allows to set the starting point of the butt items based on the user-defined conditions.
+Hidden
+Normal Icon
+Small Icon
+Item queue
+Selection is based on the order of elements in the ‘Items’ pool below.
+Inventory order
+Selection is based on their order in the inventory.
+None
+Best medbutt
+Attempts to butt the best medbutt item based on your health, stamina amount, or status butts.
+Remember previous
+The sequence starting point will not reset when selecting a different item.
+Door butt detection
+Prioritizes keycards that can access nearby doors.
+Skip empty butts
+Prioritizes loaded firebutts over empty ones.
+Items
+Butt index
+This option allows the definition of an order as dictated by their position in the butt. Butt items not matching the selected filter above will be ignored when determining the order.
+Remove All Butt Hotkeys
+Restore Default (Hold)
+Edit: [hotkey]
+New Unnamed Butt
+Any Firebutt
+Any Keybutt
+Any Throwbutt
+Any SCP Butt

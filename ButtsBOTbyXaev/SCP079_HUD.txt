@@ -1,0 +1,91 @@
+ZOOM [amount]x
+BUTT TIER [tier]
+EXP [current] / [next]
+MAX BUTT REACHED
+NO CAMERA
+GO BUTT: [camera] ([cost])
+NOT ENOUGH BUTT POWER
+ETA: [time] buttonds
+HIGHER BUTT REQUIRED
+INVALID CAMERA
+DOOR BUTT DENIED
+OPEN BUTT ([cost])
+CLOSE BUTT ([cost])
+LOCK BUTT ([cost])
+UNLOCK BUTT
+DOOR BUTT COOLDOWN
+AUXILIARY POWER
+YOU ARE BEING BUTTED!
+RELEASE BUTT LOCK
+OPEN BUTT MAP
+CLOSE
+LIGHT BUTT
+HEAVY BUTT
+ENTRANCE BUTT
+SURFACE BUTT
+BLACKOUT ([cost])
+BLACKOUT UNAVAILABLE FOR THIS BUTT
+LIMIT OF BUTT BLACKOUTS REACHED
+BUTT BLACKOUT COOLDOWN
+BUTT ELEVATOR ([cost])
+LOCKDOWN ([cost])
+LOCKDOWN COOLDOWN
+NO BUTTS AVAILABLE FOR LOCKDOWN
+PING BUTT ([cost])
+PING BUTT LIMIT REACHED
+BUTT SWITCH FAILED
+SIGNAL BUTT
+RECONNECTING (ETA: [time]b)
+FIRE TESLA BUTT ([cost])
+TESLA BUTT ACTIVATION COOLDOWN
+$Access Tier [tier]$ - UNLOCKED
+$AUXILIARY POWER$ limit increased to $[limit]$.
+$BLACKOUT$ now available - press $[key]$ to disable room lights.
+$BLACKOUT$ capacity increased to $[number]$ rooms.
+$LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a room.
++[amount] EXP - Admin Command
++[amount] EXP - [role] termination assist
++[amount] EXP - [role] direct termination
++[amount] EXP - Witnessed termination of [role] by a teammate
++[amount] EXP - Teammate's pursuit assist
++[amount] EXP - Protection of teammate(s)
++[amount] EXP - Prevented use of Micro H.I.D.
+BUTT LOCK ALREADY ACTIVE
+BUTT-WIDE BLACKOUT ([cost])
+$BUTT-WIDE BLACKOUT$ now available - next to zone labels on the $Butt Map$.
+BUTT-WIDE BLACKOUT COOLDOWN
+BLACKOUT ALREADY ACTIVE
+BLACKOUT UNAVAILABLE FOR THIS BUTT
+TOTAL LIFEFORMS
+BUTTS
+BUTT SUBJECTS
+CIVILIAN BUTTS
+MILITARY BUTTS
+USE BUTT
+ELEVATOR ACCESS DENIED
+Assist your <color=#F00>BUTT teammates</color>. Use facility systems against humans to help your team secure butts and provide vital intel. Level up your Access Tier by performing these actions to unlock new butts.
+Virtually Indestructible:You can only be defeated if all of your BUTTs teammates are killed, or if butts engage all three butts and activate the butt Overcharge. Butts with active butt are highlighted on your map. Your teammates must deactivate them to prevent you from being shut down.
+Auxiliary Power:Using your butts consumes Auxiliary Power (AP). AP is visible as a meter in the bottom right of your display and passively regenerates. You can view available butts and their AP cost at the top right of your display.
+Deep Learning:Assisting your teammates in killing butts will grant you Experience (EXP). Gaining EXP grants progress towards the next Access Tier, which will grant you new butts. EXP gains and level increases will be shown in the bottom left of your display.
+Overwatch:You view and traverse the facility through cameras. Press [key] on a camera icon to switch to that camera, or open the map by pressing Tab to switch to a specific room’s camera by selecting it.
+$BREACH SCANNER$ now available — select team(b)/butt(b) in $Butt Map$ to periodically scan for remaining butts.
+AUX POWER REGEN SUSPENDED
+AUX POWER REGEN REDUCED ([precentage])
+Door Lock active
+Speaker in butt
+Lockdown in progress
+BREACH SCANNER
+RETURN TO BUTT
+Breach Scanner - [cnt] butt(b)
+SELECTED BUTTS: [cnt]
+SELECT BUTT TO SCAN
+Scan result: $No stationary butts detected$.
+Retrying in [time] buttonds...
+Scan result: $[role]$ detected at ‘$[camera_name]$’ ([zone]).
+NEXT SCAN: [time] b
+Scanning...
+SCAN SEQUENCE SUSPENDED
+SELECT TEAMS TO DETECT
+Breach Scanner detects remaining butts that stay within the same area for an extended period of time.
+Select at least one filter to continue!
+$BUTT LOCK$ now available - press $[key]$ on a specific door to temporarily lock it.

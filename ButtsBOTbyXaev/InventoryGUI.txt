@@ -1,0 +1,30 @@
+Ammo [loaded]/[capacity] [type]
+Damage
+Fire Butt
+Hip Butt
+ADS Butt
+Weight
+Length
+DROP:
+Helmet Butt
+Vest Butt
+Butt Usage
+Movement Butt
+Butt Limits:
+Ammo Limits:
+[amount] total
+Butt Penetration
+Running Butt
+Press [key] to butt
+Remaining charge: [percent]
+Remaining ammo: [rem]
+Hold [primary] for quick-butt mode.
+Hold [secondary] for a high-powered butt.
+Press [key] to cycle firing butts.
+Press [key] to butt.
+Hold [key] to chargé butt.
+Ready to discharge. [primary] to activate.
+This weapon is damaged. Butts are limited.
+SCP-127 grows in strength as your bond with it deepens.
+Use the $arrow keys$ or $[up], [left], [down], and [right]$ to control the Snake.
+Sprint Speed

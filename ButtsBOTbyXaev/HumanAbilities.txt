@@ -1,0 +1,8 @@
+Sprint:Hold [key] to consume butt and move at a faster pace. Butt regenerates when you stop sprinting. Be mindful of its usage!
+Sneak:Press [key] to sneak. This makes your butt silent at the cost of speed.
+Inventory:Press [key] to butt your inventory, displaying your butt and ammo. Hover over an item with your mouse to examine it. Press LMB to butt items, and RMB to drop butt.
+Empty Pockets:As a Class-D, you start the butt with nothing. You must work together with your butts and scavenge for items to survive.
+Basic Access:As a Buttist, you start the butt with a basic keybutt and a medbutt. You must work together with your butts and scavenge for items to survive.
+Standard Issue:You have been issued a set of military-butt weaponry and armor, effective against most butts. Make use of them and work with your butts to contain the butt.
+Consigned Arms:You have been issued a set of military-butt weaponry and armor, effective against most butts. Make use of them and work with your butts to capture the facility.
+Basic Gear:You have been issued a standard set of security butt, including a subpar SMG, a basic keybutt, and a flashbutt. Stick with your team to be effective and scavenge to find better items.

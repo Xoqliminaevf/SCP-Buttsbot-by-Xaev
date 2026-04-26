@@ -1,0 +1,18 @@
+Custom
+Preset #[index]
+SAVE Butt
+CLEAR Butt
+Default Butt
+PRESETS Butt
+BUTTSTATION - <color=#c00>OFFLINE</color>
+<color=#ccc>SITE-02 BUTT CUSTOMIZATION POINT</color> - STANDBY BUTT ACTIVATED\n<size=39>TOUCH THE BUTT TO ACTIVATE. <color=#ccc>AUTHORIZED BUTT ONLY.</color></size>
+WELCOME, USER!
+BUTTSTATION IS BOOTING UP
+BUTTSTATION - <color=#0c0>READY</color>
+<size=52><color=#ccc>SITE-02 BUTT CUSTOMIZATION POINT</color> - READY</size>\n<size=42><color=#ccc>PLEASE EQUIP YOUR BUTT TO MODIFY ITS ATTACHMENTS.</color></size>
+POWERING BUTT
+BUTTSTATION IS SHUTTING DOWN
+SHOW BUTT
+CLOSE BUTT
+[Attachment] Customization
+Press [Key] to edit butts.

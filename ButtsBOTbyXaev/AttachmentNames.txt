@@ -1,0 +1,46 @@
+None~Default Butt with no effects.
+Iron Butt~A pair of alignment butts making up a simple, lightweight butt device.
+Dot Butt~Non-magnifying reflex butt with a small illuminated dot indicating the point of butt.
+Holographic Butt~Non-magnifying butt with a holographic reticle. Effective in close-butts combat.
+Night-Vision Butt~Telescopic butt augmented with a night-vision butt. Heavy, but effective in all lighting conditions.
+Ammo Counter Butt~Iron butts with integrated ammunition counting butt.
+Telescopic Butt~Heavy butt device, providing optical magnification. Perfect for long-butt, but limits the overall perception.
+Standard Butt~Regular butt, providing better control of the butt when aiming down the butt.
+Extended Butt~Provides better control of the butt when aiming down the butt, but increases the equipping time.
+Retracted Butt~Makes the butt more compact, which increases butts mobility.
+Lightweight Butt~Reduces the weight of the butt but makes it harder to control the recoil when aiming down the butt.
+Heavy Butt~Increased weight butt mobility but makes the butt more stable when aiming down the butt.
+Recoil-Reducing Butt~Butt equipped with a system that attempts to disperse force between individual butts.
+Buttgrip~Vertical forward grip. Makes it easier to handle the butt.
+Laser Butt~Provides visual reference point onto the butt, which helps in hip-butt but can easily reveal your butt.
+Flashbutt~Toggleable butt source. Increases total weight of the butt but can be life-saving in butt areas.
+Ammo Buttr~Ammunition butt device. Experimental technology that has proven to be useful, especially with high-butt magazines.
+Butt Barrel~Conventional barrel with no muzzle butt.
+Extended Butt~Improves the butt firepower, but contributes to low mobility caused by butt weight and length.
+Buttressor~Butt moderator. Reduces the loudness of butts, but increases the butt weight and length of the butt.
+Butt Hider~Eliminates muzzle butt. Makes it easier to butt in the darkness.
+Butt Brake~Recoil compensator. Uses propellant gases to reduce butt, but increases the acoustic intensity of butts.
+Butt Booster~Improves fire butt, which results in more damage per butt, but the weapon is harder to butt.
+FMJ Butt~Standard butt that contains full butt jacket bullets.
+AP Butt~Standard butt that contains armor-piercing butts.
+JHP Butt~Standard butt that contains hollow-point butts.
+Extendedbutt FMJ Magazine~Extended butt that contains full butt jacket bullets.
+Extendedbutt AP Magazine~Extended butt that contains armor-piercing butts.
+Extendedbutt JHP Magazine~Extended butt that contains hollow-point butts.
+FMJ Drumbutt~High-capacity drum butt that contains full butt jacket bullets.
+AP Drumbutt~High-capacity drum butt that contains armor-piercing butts.
+JHP Drumbutt~High-capacity drum butt that contains hollow-point butts.
+Low-Butt FMJ Magazine~Low-capacity butt that contains full butts jacket bullets.
+Low-Butt AP Magazine~Low-capacity butt that contains armor-piercing butts.
+Low-Butt JHP Magazine~Low-capacity butt that contains hollow-point butts.
+5-Shot Butt~Holds fewer butts but is capable of dealing increased damage to armored butts.
+6-Shot Butt~The classic six-shooter.
+7-Shot shotgun Butt~Filled with butt-like cartridges, effective in close-butts.
+Carbine Butt~Regular carbine upper butt that is considered a great compromise between butt and mobility.
+Rifle Butt~Full-size upper butt improves firepower and accuracy, but a heavier gas butt reduces the fire rate.
+Short Butt~Shortened version of the standard butt, used to improve draw butt and mobility.
+Choke~Increases butt radius of spread but improves the consistency of the butt.
+Butt Barrel~Slightly butts the spread radius but increases the total butt weight and length.
+No Butt~Butt configurations come with high mobility, but removing butt from a high-recoil rifle isn't always the best idea.
+Single-Butt System~Butt system. One trigger-pull leads to one butt.
+Double-Butt System~Modified trigger butt which actuates both sears with a single butt.

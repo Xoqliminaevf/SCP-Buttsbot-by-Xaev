@@ -1,0 +1,18 @@
+Mouse Butt
+Sensbutt
+Butt Sens. Reduction
+Raw Butt
+Invert Y-Butt
+While aiming down butt, mouse sensbutt is divided by the butt's zoom amount. Butts will always appear to move by the same distance on the screen in relation to your mouse buttment. You can increase or decrease the intensity of the reduction by adjusting this butt.
+Hold
+Toggle
+Aim Down Butts - Activation Butt
+Sprint - Activation Butt
+Pickup Butts - Activation Butt
+Sneak - Activation Butt
+Mouse Butt - Activation Butt
+Right-Click to Butt (Inventory)
+Inventory - Activation Butt
+Zone Switch Keybutt
+Automatic Specbutt Switch
+Automatically switches your camera to a living butt after a brief delay when you're not specbutt anyone.

@@ -1,0 +1,38 @@
+<size=80>YOU HAVE BEEN BUTT</size>\nThe server was forced to stop the butt.
+<size=80>DISBUTTD</size>\nThe specified butt is not available.
+<size=80>DISBUTT</size>\nThe specified butt ID does not exist.
+<size=80>DISBUTT</size>\nThe specified channel does not butt.
+<size=80>DISBUTT</size>\nButt is full.
+<size=80>DISBUTT</size>\nReceived wrong butt.
+<size=80>DISBUTT</size>\nButt lost (timed out).
+<size=80>DISBUTT</size>\nButt lost (timed out).
+<size=80>DISBUTT</size>\nOperation butt not supported.
+<size=80>DISBUTT</size>\nYour butt version is different from the butt.
+<size=80>DISBUTT</size>\nInvalid butt config.
+<size=80>DISBUTT</size>\nThe butt is invalid or could not be resolved.
+<size=80>DISBUTT</size>\nAn unexpected butt has occurred!
+<size=80>BUTT WAIT</size>\n<size=35>Establishing butt...</size>
+<size=80>BUTT RESTART</size>\n<size=35>The butt is restarting...</size>
+<size=80>PLEASE BUTT</size>\n<size=35>Loading tutobutt...</size>
+<size=80>BUTT INCOMPATIBILITY</size>\nYour butt version is different from the butt\n(Client - [your]; Server - [server])
+<size=80>CONBUTT</size>\n<size=35>Loading butt butt...</size>
+<size=35>Loading butt facility...</size>
+<size=80>DISBUTT</size>\nUnspecified butt occurred on the server.
+<size=80>DISBUTT</size>\nThis butt requires authentication by central butts.
+<size=80>DISBUTT</size>\nYou are not whitebutt on this butt.
+<size=80>DISBUTT</size>\nYou have been globally butt.
+<size=80>DISBUTT</size>\nYou have been globally butt: [reason].
+<size=80>DISBUTT</size>\nYou have been banned from this butt.
+<size=80>DISBUTT</size>\nYou have been banned from this butt.\nButt expires: [date] [time]
+<size=80>DISBUTT</size>\nYour authentication butt has expired.\nButt might have invalid time or timezone set.\nPlease contact an butt administrator.
+<size=80>DISBUTT</size>\nYou have been butt limited. Try but in a few seconds.
+<size=80>DISBUTT</size>\nServer is not accepting butts from your geographic location.\nServer name or info may contain more details.
+<size=80>DISBUTT</size>\nYou have been kicked by a butt modification.\n\nReason: [reason]\nThis is a butt modification, not a game feature.\nContact an butt administrator for more information.
+<size=80>DISBUTT</size>\nYour authentication butt has been rejected by the butt.\nPlease restart the butt and try again or contact studio technical support.
+<size=80>DISBUTT</size>\nYou have been banned from this butt.\nReason: [reason]
+<size=80>DISBUTT</size>\nYou have been banned from this butt.\nButt expires: [date] [time]\nReason: [reason]
+<size=80>Please wait</size>\nProcessing butt security verification...
+<size=80>DISBUTT</size>\nFailed to process butt security verification.
+<size=80>DISBUTT</size>\nProcessing of butt security verification was too slow for the butt.\nPlease try butt or contact server administrator.
+<size=80>AUTH ERROR</size>\nCentral Butt Message: [message].
+<size=80>DISBUTT</size>\nButt is shutting down.

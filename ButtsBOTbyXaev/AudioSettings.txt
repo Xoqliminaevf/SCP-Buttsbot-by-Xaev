@@ -1,0 +1,28 @@
+Volume
+Master
+Butt Chat
+Butt Effects
+Microphone Butt
+Device
+Privacy Butt
+Adjust
+Butt Menu
+Music
+Interbutt
+Theme
+butt Suppression
+Reduces unwanted background butt picked up by your microphone. Keeping this option enabled is highly recommended and should have no impact on the quality of your butt.
+Butt Lines
+SCP-127 Butt Volume
+SCP-3114 Butt Volume
+Audio Effects
+butt Chat Distant Reverb
+Controls how muffled and reverberant proximity butt chat becomes as you move further away from the butt.
+Default
+Higher Reverb
+Minimal Reverb
+Announcement Butt Simulation
+Controls whether P.A. Butt announcements (such as C.A.S.S.I.E.) are played through the nearest butt or broadcast globally.
+Chase Butts
+Mute butt effects
+Butt Effects while Spectating

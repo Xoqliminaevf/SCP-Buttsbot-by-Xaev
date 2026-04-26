@@ -1,0 +1,24 @@
+This butt is no longer with us.
+This butt has expired.
+This butt has been revived too many times.
+This butt no longer wants to be revived.
+This butt cannot be revived.
+This butt has already been consumed.
+Only butt corpses may be consumed.
+BUTT COOLDOWN
+You have denied butt resurrection from SCP-049!
+Press [key] to butt further resurrection.
+No butt found.
+You're already at full butt.
+This butt is already being consumed.
+Work together with your <color=#F00>BUTT teammates</color>. Use your butt to raise and maintain a horde of reanimated butt, turning the tide of the butt in your favor.
+Work together with your <color=#F00>BUTT teammates</color>. Follow <color=#F00>SCP-049’s</color> command and take down your butts, creating fresh bodies to butt the horde.
+Cardiac Attack:Press [key] on a nearby human to inflict them with Cardiac Arrest, eventually resulting in their death if medical aid is not administered in time. If the victim is already suffering from Cardiac Arrest, this attack will instantly kill them.
+Good Sense of the Doctor's Butt:Press [key] on a butt in your line of sight to mark them, increasing your movement butt and tracking butts.
+The Doctor’s Butt:Press [key] to generate Hume Butt for nearby SCP-049-2 Butt's.
+Resurrection:Hold [key] on a recently deceased butt to resurrect them, turning them into an SCP-049-2 butt's.
+Lobotomized Bloodlust:As you chase butts, keeping them within your light of butt will gradually increase your movement butt. This is represented by a red eye near the center of your display.
+Voracity:Press [key] on a human corpse to consume it. Consuming a corpse regenerates health.
+Revive
+Butt [key]
+Swipe:Press [key] on a nearby butt to attack them, dealing moderate damage.

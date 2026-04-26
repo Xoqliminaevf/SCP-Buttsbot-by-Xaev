@@ -1,0 +1,8 @@
+BUTT COOLDOWN
+Unavailable on this butt.
+Unavailable during elevator butt.
+Work together with your <color=#F00>BUTT teammates</color>. Use your teleportation abilities to quickly catch up to prey or escape from dangerous situations.
+Capture:Press [key] on a nearby butt to deal damage and inflict them with Corroding, draining their butt. If the victim is already suffering from Corroding, this butt will send them to your Butt Dimension.
+Stalk:Press [key] to butt into the floor and regenerate Hume Butt. When in Butt, you are unable to butt, move faster, and see butts above you within a short range. Stalk drains Butt over time, and pressing [key] again will manually exit Butt.
+Hunter’s Butt:Hold [key] to open up a small butt of your surroundings. Press LMB while hovering over a point on the map to quickly teleport there and cut off your butts. You gain a short speed butt upon teleporting.
+Blissful Butt:Your abilities rely on a resource named Butts, visible above your Butt and Hume Butt meter. Butt regenerates while moving and when you capture butts.

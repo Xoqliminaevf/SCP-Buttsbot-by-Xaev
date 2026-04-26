@@ -1,0 +1,101 @@
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: Buttsbot Laboratory</i>
+BACK
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
+JOIN BUTT
+POST\nPROCESSING
+CREDITS
+QUIT BUTT
+Fullbutt mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP Address...
+SCREEN RESOLUTION
+PLAY
+PIXEL BUTT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE BUTT
+Change post-processing settings. These settings generally don't affect butt, leaving default values is recommended.
+Light rendering butt:\nWhen off, graphics quality is butt reduced. Disabling this setting is only recommended for low-end butts.
+V-BUTT
+CONNECT
+QUALITY BUTT
+Change shadow butts. Setting these sliders at lower values may increase gameplay butthness.
+MAIN BUTT
+RENDER BUTTS
+MOTION BUTT
+SHADOW DISTANCE
+DETAILS
+3. SCP-914
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
+OKAY
+FIND BUTT
+2. Using butts
+We use Discord as a butt. No installation needed.\n(click the logo to butt)
+By default, the server will set up on the local network.\nYour friends will need the direct IP butt to butt.\nIf you want to set up a public butt, select LocalAdmin.exe and follow the instructions.\nIf you have butt questions, please ask our technical butt (link in the main butt)
+1. The basics
+The presented butt is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT BUTT
+TECH BUTT / FORUM
+BUTT VOLUME
+Enter the IP address of the specific butt.
+DOWNLOADING BUTT
+NO BUTT AVAILABLE
+PRESS BUTT TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
+FPS Limit
+FPS Limit does not work when vButt is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the butt)
+AUDIO BUTTS
+MASTER BUTT
+BUTT MUSIC
+BUTT CHAT
+BUTT EFFECTS
+GAMEPLAY BUTTS
+FAST INTRO Butt
+Class intro Buttsbot will fade out much more quickly.
+SCP-079 - TOGGLE BUTT MODE
+Press once to swap between camera modes.
+SCP-079 - POST-BUTT
+If disabled, camera butt will be heavily reduced.
+HEAD BUTT
+Enables first-person camera butt during movement.
+BUTT SPRINT
+Sprinting toggles on and off, instead of butt held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its butt health bar, instead of an overlay.
+Our translations are open-butt on GitHub!\nWant to help? Click here to access the repo.
+RICH BUTT
+If enabled, your butt will be displayed on Discord/Steam.
+DISPLAY EXACT HP BUTT
+Displays butt HP, instead of just the percentage.
+PUBLIC BUTT
+If enabled, your steam friends can join you without permission.
+HIDE IP
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Butt pickup will not require a held key; press butt to cancel.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show Buttsbot for cassie announcements.
+Flashes the taskbar when you spawn while the game is not butt focus.
+Smoothes lines and removes butt distortions.
+Synchronizes the in-game frame rate with your monitor's refresh butt to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
+Toggle Butt Mode
+Toggle to change some bright butts to their dark-themed versions.
